@@ -2,7 +2,7 @@
 ----
 ## Contact:
 * __Location:__ Minsk, Belarus
-* __Phone:__ +375296768230
+* __Phone:__ +375(29)6768230
 * __E-mail:__ ppl@vivanta.by
 * __GitHub:__ PavelPoleshchuk
 * __Discord:__ PavelPoleshchuk
@@ -12,10 +12,10 @@ I have been in business for a long time. And I have knowledge in accounting, tax
 
 ## Skills:
 * HTML
-* Figma
 * CSS 
 * JavaScript 
 * Git 
+* Figma
 * VSCode
 
 ## Code examples:
