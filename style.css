@@ -1,0 +1,119 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+  min-height: 2000px;
+  transition: all 1s;
+}
+
+ul {
+  list-style-position: inside;
+  list-style-image: url("../img/right_arrow_icon.png");
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 20px;
+  box-shadow: 0px 4px 20px rgb(88, 87, 87);
+  padding: 10px;
+}
+
+.header__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  background-color: green;
+  color: rgb(237, 245, 237);
+}
+
+.navigation {
+  display: flex;
+}
+
+.navigation__link {
+  list-style: none;
+  padding: 0 10px;
+  font-size: 1.5rem;
+}
+
+.navigation__a-link {
+  color: rgb(237, 245, 237);
+  text-decoration: none;
+}
+
+.navigation__a-link:hover {
+  color: rgb(247, 18, 10);
+}
+
+.footer__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 0px 4px 20px rgb(88, 87, 87);
+  background-color: green;
+  color: rgb(237, 245, 237);
+  padding: 5px 15px;
+}
+
+.cvg_hover:hover {
+  background-color: rgb(247, 18, 10);
+}
+
+.photo-contact__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+}
+
+.photo {
+  display: flex;
+  flex: 1;
+}
+
+.photo__file {
+  height: 300px;
+}
+
+.contact {
+  display: flex;
+  flex: 1;
+}
+
+.contact__a-text {
+  color: black;
+  text-decoration: none;
+}
+
+.contact__a-text:hover {
+  color: rgb(247, 18, 10);
+}
+
+.contatct__info {
+  min-width: 300px;
+}
+
+.projects__a-link {
+  text-decoration: none;
+  color: black;
+}
+
+.projects__a-link:hover {
+  color: rgb(247, 18, 10);
+}
+
+/*# sourceMappingURL=style.css.map */
