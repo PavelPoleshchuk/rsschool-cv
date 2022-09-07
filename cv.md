@@ -27,3 +27,19 @@ An example for me is my daughter, who graduated from rss school in 2021 and is n
 * Git 
 * Figma
 * VSCode
+
+## Code examples:
+```
+function switchItUp(n){
+  return ["Zero","One","Two","Three","Four","Five","Six","Seven","Eight","Nine"][n]
+}
+```
+## Education:
+* Secondary school with improved study of mathematics and physics
+* Belarusian State University of Informatics and Radioelectronics, Minsk
+* English courses: Elementary, PI, Intermediate
+* JS/FE Pre-School 2022Q2 course(rating 350 of 11247)
+
+## Languages:
+* Russian - Native
+* English - A2-B1
